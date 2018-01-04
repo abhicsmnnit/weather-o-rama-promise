@@ -1,0 +1,6 @@
+# Dependency directories
+node_modules/
+
+# For suppressing ES 6 Syntax Warnings in VS Code
+.jshintrc
+jsconfig.json
